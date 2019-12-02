@@ -1,2 +1,2 @@
 # FaceRecognition
-Code for a face rec doorbell
+Code for a facial recognition doorbell
